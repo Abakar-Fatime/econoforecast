@@ -308,5 +308,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - **Data Sources:** World Bank, IMF, Federal Reserve Economic Data (FRED)
 - **Inspiration:** Real-world economic policy analysis challenges
+- **Purpose:** Academic portfolio demonstrating production-grade ML engineering and time series forecasting capabilities
 
 ---
+
+**Note:** This is a portfolio project built for educational purposes. For production use in economic policy decisions, please consult with domain experts and validate findings with official sources.
